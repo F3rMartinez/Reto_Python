@@ -1,0 +1,8 @@
+#Ejercicio del día uno utilizando print()
+
+print("¡Bienvenido al Reto de Python!")}
+
+--------------------------------------
+
+nombre = "Fernando"
+print("Hola, " + nombre + "! Bienvenido al reto.")
