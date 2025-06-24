@@ -1,6 +1,6 @@
 #Ejercicio del día dos utilizando print() e Input()
 
-------------------------------------
+-----------------------------------
 
 Nombre = input("Nombre: ")
 Comida = input("Comida Favorita: ")
