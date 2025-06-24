@@ -1,0 +1,17 @@
+#Ejercicio del día dos utilizando print() e Input()
+
+------------------------------------
+
+Nombre = input("Nombre: ")
+Comida = input("Comida Favorita: ")
+Cancion = input("Cancion Favorita: ")
+Pais = input("Donde vives: ")
+
+print("") # Esto es para dejar una línea en blanco
+print("Conociéndote:")
+print("") # Esto es para dejar una línea en blanco
+
+print("Tu nombre es: " + Nombre)
+print("Tu comida favorita es: " + Comida)
+print("Tu cancion favorita es: " + Cancion)
+print("Vives en: " + Pais)
