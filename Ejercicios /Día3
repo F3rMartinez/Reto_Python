@@ -1,0 +1,10 @@
+#Ejercicio del día tres aprendiendo a concatenar
+
+-----------------------------------
+
+Comida = input("Ingresa la comida que te gusta: ")
+Horario = input("Ingresa tu horario de comida: ")
+Restaurante = input("Ingresa el restaurante donde te gusta comer: ")
+
+print("Tu comida favorita es", Comida, "y te gusta comerla en el horario de",
+Horario, "en el restaurante",Restaurante)
