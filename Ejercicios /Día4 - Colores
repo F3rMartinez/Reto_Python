@@ -1,1 +1,27 @@
+#Ejercicio del día cuatro aprendiendo a utilizar los colores 
 
+--------------------------------------------------
+
+print("Bienvenido a tu Simulador de Historia de Aventura.")
+print()
+print("Voy a hacerte un montón de preguntas y luego crearé una historia épica contigo como protagonista.")
+
+print()
+name = input("¿Cómo te llamas? ")
+print()
+enemyName = input("¿Cómo se llama tu enemigo? ")
+print()
+superPower = input("¿Cuál es tu superpoder? ")
+print()
+live = input("¿Dónde vives? ")
+print()
+food = input("¿Cuál es tu comida favorita? ")
+
+print()
+print("\033[1;37mHola", "\033[31m" + name, 
+  "\033[1;37mTu habilidad para", "\033[34m" + superPower, 
+  "\033[1;37mhace que nunca tengas que volver a ver a", "\033[32m" + enemyName, 
+  "\033[1;37motra vez. Ve a comer", "\033[33m" + food, 
+  "\033[1;37mmientras caminas por las calles de", "\033[36m" + live, 
+  "\033[1;37my usa", "\033[35m" + superPower, 
+  "\033[1;37mpara el bien y no para el mal.\033[0m")
