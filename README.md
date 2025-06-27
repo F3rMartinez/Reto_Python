@@ -9,5 +9,6 @@ Este reto consiste en aprender y realizar ejercicios de Python por 100 días, ¡
 3. Día 3 - Se aprendió a usar concatenación con input y print.
 4. Día 4 – Se aprendió el uso de colores en el print().
 5. Día 5 - Se aprendió el desarrollo y los usos del if, elif, 
+
 📬 ¡Contáctame!
 🔗 LinkedIn: https://www.linkedin.com/in/fer-martin3z/
