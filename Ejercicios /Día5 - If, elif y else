@@ -1,0 +1,12 @@
+#Ejercicio del día cinco aprendiendo a utilizar if, elif y else
+
+---------------------------------------
+
+CatoDog = input("¿Que tipo de animal te gustaria ser? ")
+
+if CatoDog == "perro":
+    print("¡Te convertiste en un perro!")
+elif CatoDog == "gato":
+    print("¡Te convertiste en un gato!")
+else:
+    print("No te convertiste en un animal.")
