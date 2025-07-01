@@ -8,7 +8,8 @@ Este reto consiste en aprender y realizar ejercicios de Python por 100 días, ¡
 2. Día 2 – Se aprendió a utilizar el input() junto con el print() para mostrar los datos.
 3. Día 3 - Se aprendió a usar concatenación con input y print.
 4. Día 4 – Se aprendió el uso de colores en el print().
-5. Día 5 - Se aprendió el desarrollo usando if y elif.
+5. Día 5 - Se aprendió el desarrollo de las condiciones if y else.
+6. Día 6 - Se aprendió utilizar la condición elif.
 
 📬 ¡Contáctame!
 🔗 LinkedIn: https://www.linkedin.com/in/fer-martin3z/
