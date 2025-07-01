@@ -1,0 +1,16 @@
+#Ejercicio del día cinco aprendiendo a utilizar elif
+
+------------------------------------
+
+print("LOGIN DE SEGURIDAD")
+username = input("Usuario > ")
+password = input("Contraseña > ")
+
+if username == "Fernando" and password == "12345":
+    print("Bienvenido Fernando!")
+    
+elif username == "Juan" and password == "Juan123":
+    print("Bienvenido Juan!")
+
+else:
+  print("Usuario o Contraseña incorrecto!")
