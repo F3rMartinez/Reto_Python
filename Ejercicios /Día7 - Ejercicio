@@ -1,0 +1,16 @@
+#Se realizo un ejercicio con todo lo aprendido
+
+-------------------------------------------------
+
+TVshow = input('¿Cual es tu serie favorita? ')
+if TVshow == 'Rick and Morty':
+  print('¡Es mi serie favorita también!')
+  personaje = input('¿Cual es tu personaje favorito? ')
+  if personaje == 'Rick':
+    print('¡Es mi personaje favorito también!')
+  else:
+    print('No me gusta ese personaje')
+elif TVshow == 'The Simpsons':
+  print('Es buena serie')
+else: 
+  print('No me gusta esa serie')
