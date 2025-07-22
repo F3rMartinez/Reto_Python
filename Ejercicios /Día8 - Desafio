@@ -1,0 +1,20 @@
+#Ejercicio del día ocho, es realizar un desafio con todo lo aprendido
+
+--------------------------
+
+print('Máquina Vieja de Insultos')
+print('\n')
+
+Nombre = input('¿Quién eres tú? ')
+print(Nombre)
+
+Cabello = input('¿Cuánto cabello tienes en la cabeza? ')
+print(Cabello)
+
+Escala = input('En una escala del 1 al 10, ¿qué tan calvo estás? ')
+if Escala == '1 > 4':
+    print('¡poco a poco quedarás calvo!')
+elif Escala == '5 > 7':
+    print('¡te queda poco!') 
+else:
+    print('¡ya estás calvo! XD')
