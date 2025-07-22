@@ -11,6 +11,7 @@ Este reto consiste en aprender y realizar ejercicios de Python por 100 días, ¡
 5. Día 5 - Se aprendió el desarrollo de las condiciones if y else.
 6. Día 6 - Se aprendió utilizar la condición elif.
 7. Día 7 - Se realizo un ejercicio con lo aprendido del día 1 al día 6.
+8. Día 7 - Se realizo un pequeño desafio 
 
 📬 ¡Contáctame!
 🔗 LinkedIn: https://www.linkedin.com/in/fer-martin3z/
